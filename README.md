@@ -1,5 +1,5 @@
 
-# HelloID-Task-SA-Target-ExchangeOnline-sharedMailboxCreate
+# HelloID-Task-SA-Target-ExchangeOnline-SharedMailboxCreate
 
 ## Prerequisites
 Before using this snippet, verify you've met with the following requirements:
